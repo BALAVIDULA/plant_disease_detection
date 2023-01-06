@@ -1,7 +1,7 @@
 
 # Using CNN for Disease Classification
 ## Citing
-If you find this code useful, then consider referring to the [paper](https://github.com/BALAVIDULA/plant_disease_detection/blob/main/Research%20Paper.docx);
+If you find this code useful, then consider referring to the [paper](https://github.com/BALAVIDULA/plant_disease_detection/blob/main/Research%20Paper.pdf);
 ## Dataset
 We have used publicly available Corn or Maize Leaf Disease Dataset from Kaggle.
 
